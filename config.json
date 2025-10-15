@@ -6,11 +6,6 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "maotai": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台",
-      "detail": "https://mtzy.me/"
-    },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
@@ -72,14 +67,6 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    },
-    "jinying": {
-      "api": "https://jyzyapi.com/provide/vod",
-      "name": "金鹰"
-    },
-     "jinyinger": {
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun",
-      "name": "金鹰二"
     }
   }
 }
