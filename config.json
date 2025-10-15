@@ -6,10 +6,10 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://heimuer.tv"
+    "maotai": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台",
+      "detail": "https://mtzy.me/"
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -76,6 +76,18 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    }
+    "xinlang": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源"
+    }
+    "jinying": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰"
+    }
+     "jinying2": {
+      "api": "hhttps://jyzyapi.com/provide/vod/from/jinyingyun",
+      "name": "金鹰2"
     }
   }
 }
